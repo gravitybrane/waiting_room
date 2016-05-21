@@ -1,0 +1,27 @@
+body {
+	font-family: 'Bitter', serif;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+	
+	background-image: url(../img/H.jpg);
+	background-position: center;
+}
+
+header {
+	margin-top: 2%;
+	margin-bottom: 2%;
+	text-align: center;
+}
+
+strong {
+	font-size: 3em;
+	color: black;
+}
+
+h1 {
+	font-size: 6rem;
+	display: inline-block; 
+	vertical-align: bottom;
+	padding-bottom: 1%;
+}
